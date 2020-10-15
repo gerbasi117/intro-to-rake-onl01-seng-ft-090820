@@ -28,6 +28,14 @@ describe "Rakefile" do
       expect(Rake::Task['console']).to be_truthy, "Make sure you have a 'console' rake task"
     end
   end
+  
+  
+  
+  
+  
+  
+  
+  
 
   end
 end
