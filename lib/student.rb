@@ -56,5 +56,5 @@ class Student
     sql = "SELECT * FROM students" 
     DB[:conn].execute(sql)
   end
-
+end
 end
